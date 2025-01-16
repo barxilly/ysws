@@ -417,6 +417,7 @@ function App() {
         </Grid.Col>
           </Grid>
           <Text style={{ textAlign: 'center', fontSize:'0.8em' }}>Logos, Names, and Images copyright of their respective owners.</Text>
+          <Text style={{ textAlign: 'center', fontSize:'0.8em' }}>This site is unofficial and may not always be up-to-date.</Text>
         </Stack>
       </Center>
       <a href="https://hackclub.com/">
