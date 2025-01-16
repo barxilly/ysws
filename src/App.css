@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Readex Pro', sans-serif;
+    background-color: #f8f1e9;
+    user-select: none;
+}
+
+.title {
+    font-size: 3em;
+    color: #000;
+}
+
+.subtitle {
+    font-size: 1.5em;
+    line-height: 1;
+    color: #444;
+    font-family: 'Dongle', sans-serif;
+}
+
+.mantine-Card-root {
+    transition: all 0.2s;
+}
+
+.mantine-Card-root:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+}
